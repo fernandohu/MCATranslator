@@ -1,5 +1,5 @@
 <?php
-namespace MCATranslator;
+namespace fhu\MCATranslator;
 
 use \Exception;
 

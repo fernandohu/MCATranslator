@@ -1,5 +1,5 @@
 <?php
-namespace MCATranslator;
+namespace fhu\MCATranslator;
 
 /**
  * Implements translation for
